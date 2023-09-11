@@ -32,11 +32,11 @@ git stash pop
 
 # Tell me to delete the tag remotely.
 ```bash
- git push origin --delete v1.17
+ git push origin --delete 1.7
 ```
 
 # Tell me to delete the tag locally.
 ```bash
-bash git tag -d v1.17 
+bash git tag -d  1.7
 ```
 
