@@ -26,15 +26,15 @@ git stash
 git stash pop
 ```
 
-To get all tags to get a specific tag bash git tag 1.7
+# To get all tags to get a specific tag bash git tag 1.7
 ``bash git tag``
 
-Tell me to delete the tag remotely.
+# Tell me to delete the tag remotely.
 ```bash
  git push origin --delete v1.17
 ```
 
-Tell me to delete the tag locally.
+# Tell me to delete the tag locally.
 ```bash
 bash git tag -d v1.17 
 ```
