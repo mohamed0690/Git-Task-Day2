@@ -1,4 +1,5 @@
 # Git-Task-Day2
+<img src="https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header-740x416.png" alt="Search TextInput" width="100%" height="" /> 
 
 # This deletes the branch 'test' after making sure all changes are merged.
 ```bash
@@ -38,3 +39,4 @@ git stash pop
 ```bash
 bash git tag -d v1.17 
 ```
+
